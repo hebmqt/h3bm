@@ -20,5 +20,5 @@
 ## 💬 Contact Me
 
 <p align="center">
-  <img src="api.lanyard.rest/v1/users/274714384423714816" alt="Discord Status" />
+   <a href="https://discord.com/users/274714384423714816" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://cdn.simpleicons.org/discord"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 </p>
