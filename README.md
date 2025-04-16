@@ -25,3 +25,9 @@
    <img src="https://lanyard-profile-readme.vercel.app/api/274714384423714816?bg=1f1f1f" alt="Discord Profile"/>
    </a>
 </p>
+
+## Secret
+
+```yaml
+66 72 6F 6D 20 61 20 73 6B 69 64 20 74 6F 20 73 6B 69 64 73
+```
