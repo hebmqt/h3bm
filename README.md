@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome @User</h1>
 
-<!--
-**triggerbotten/triggerbotten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=triggerbotten&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/triggerbotten?label=Followers&style=social" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=triggerbotten&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerbotten&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Contact Me
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/274714384423714816" alt="Discord Status" />
+</p>
