@@ -19,11 +19,9 @@
 
 ## 💬 Contact Me
 
-<p align="center">
-   <a href="https://discord.com/users/274714384423714816" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://cdn.simpleicons.org/discord"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-</p>
+
 <p align="center">
    <a href="https://discord.com/users/274714384423714816">
-   <img src="https://lanyard-profile-readme.vercel.app/api/173557815326015488?bg=1f1f1f" alt="Discord Profile"/>
+   <img src="https://lanyard-profile-readme.vercel.app/api/274714384423714816?bg=1f1f1f" alt="Discord Profile"/>
    </a>
 </p>
