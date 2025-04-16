@@ -20,5 +20,5 @@
 ## 💬 Contact Me
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/274714384423714816" alt="Discord Status" />
+  <img src="api.lanyard.rest/v1/users/274714384423714816" alt="Discord Status" />
 </p>
