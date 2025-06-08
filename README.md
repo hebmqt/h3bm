@@ -1,8 +1,8 @@
 <h1 align="center">👋 Welcome @User</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=triggerbotten&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/triggerbotten?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=hebmqt&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hebmqt?label=Followers&style=social" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=triggerbotten&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hebmqt&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggerbotten&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebmqt&layout=compact&theme=tokyonight" />
 </p>
 
 ---
