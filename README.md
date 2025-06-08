@@ -20,9 +20,8 @@
 ## 💬 Contact Me
 
 
-<p align="center">
-   <a href="https://discord.com/users/274714384423714816">
-   <img src="https://lanyard-profile-readme.vercel.app/api/274714384423714816?bg=1f1f1f" alt="Discord Profile"/>
+<p align="center"> 
+  https://guns.lol/hebmqt
    </a>
 </p>
 
